@@ -5,15 +5,15 @@ A documentação funcional é o tipo de documento que apresenta um produto, func
 
 ## Exemplo de documentação 
 
-# Bytebank
+# Metasix
 
-A ByteBank é um banco digital que foi criado com objetivo de simplificar a vida financeira dos brasileiros. 
+A Metasix é uma empresa de tecnologia com a finalidade de facilitar e otimizar os atendimentos de empresas. 
 
 A seguir, você encontra mais informações sobre: 
 
 * Serviços disponíveis
-* Para quem é a Bytebank?
-* Como criar sua conta  
+* Para quem é a Metasix?
+
 
 
 ### Serviços disponíveis
