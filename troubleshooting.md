@@ -13,7 +13,7 @@ Algumas orientações para escrever um troubleshooting:
 
 ## Documentação 
 
-# Falhas relatadas
+# Falha citada
 
 ## 1. Lentidão ao Reclassificar solicitações
  
